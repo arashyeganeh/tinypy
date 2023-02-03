@@ -89,7 +89,7 @@ Documentation is available at the GitHub page: https://github.com/arashyeganeh/t
 
 ## Requirements
 
-- Python 3
+- Python > 3.6
 
 ## License
 
@@ -107,4 +107,4 @@ If you have any issues or questions, please feel free to reach out to us on [the
 
 ## References
 
-- More information can be found on the [GitHub page](https://github.com/arashyeganeh/tinypy).
+More information can be found on the [GitHub page](https://github.com/arashyeganeh/tinypy).
