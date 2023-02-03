@@ -10,7 +10,7 @@
     <a href="https://github.com/arashyeganeh/tinypy">
         <img alt="version" src="https://img.shields.io/badge/Docs-github-lightslategrey"/>
     </a>
-    <a href="https://github.com/arashyeganeh/tinypy/releases/tag/0.0.2">
+    <a href="https://github.com/arashyeganeh/tinypy/releases/tag/0.2.2">
         <img alt="version" src="https://img.shields.io/badge/Build-tar.gz | whl-lightseagreen"/>
     </a>
     <a href="https://github.com/arashyeganeh/tinypy/issues">
@@ -82,10 +82,10 @@ Documentation is available at the GitHub page: https://github.com/arashyeganeh/t
 
 #### action
 
-| Action name |           Description           |          Docs          |
-| :---------: | :-----------------------------: | :--------------------: |
-|  json2csv   | convert JSON files to CSV files | [Read](/docs/csv2json) |
-|  csv2json   | convert CSV files to JSON files | [Read](/docs/csv2json) |
+| Action name |           Description           |                             Docs                             |
+| :---------: | :-----------------------------: | :----------------------------------------------------------: |
+|  json2csv   | convert JSON files to CSV files | [Read](https://github.com/arashyeganeh/tinypy/tree/main/docs/json2csv) |
+|  csv2json   | convert CSV files to JSON files | [Read](https://github.com/arashyeganeh/tinypy/tree/main/docs/csv2json) |
 
 ## Requirements
 
