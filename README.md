@@ -5,7 +5,7 @@
     <img alt="python" src="https://img.shields.io/badge/Python- > 3.6 -blue?logo=python&logoColor=white"/>
     <br>
     <a href="https://pypi.org/project/tinypy/">
-        <img alt="version" src="https://img.shields.io/badge/pypi-tinypy-yellow"/>
+        <img alt="version" src="https://img.shields.io/badge/Pypi-tinypy-yellow"/>
     </a>
     <a href="https://github.com/arashyeganeh/tinypy">
         <img alt="version" src="https://img.shields.io/badge/Docs-github-lightslategrey"/>
@@ -14,9 +14,10 @@
         <img alt="version" src="https://img.shields.io/badge/Build-tar.gz | whl-lightseagreen"/>
     </a>
     <a href="https://github.com/arashyeganeh/tinypy/issues">
-    	<img alt="version" src="https://img.shields.io/badge/issues-https://github.com/arashyeganeh/tinypy/issues-red"/>
+    	<img alt="version" src="https://img.shields.io/badge/issues-github-red"/>
     </a>
 </p>
+
 
 
 Tinypy is a collection of small Python functions and classes which make common patterns shorter and faster. All of these can be done by it:
