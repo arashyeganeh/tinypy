@@ -18,8 +18,6 @@
     </a>
 </p>
 
-
-
 Tinypy is a collection of small Python functions and classes which make common patterns shorter and faster. All of these can be done by it:
 
 * convert JSON files to CSV files
@@ -51,7 +49,7 @@ This will convert the JSON file located at `sample.json` to a CSV file located a
 Tinypy also provides a command line interface for converting JSON files to CSV files.
 
 ```bash
-tinypy -s sample.json -d new-sample.csv json2csv
+tinypy -s sample.json -d new-sample.csv -a json2csv
 ```
 
 This command will convert the JSON file located at `sample.json` to a CSV file located at `new-sample.csv`.
