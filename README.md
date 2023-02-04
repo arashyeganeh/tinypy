@@ -1,7 +1,7 @@
 # tinypy
 
 <p>
-    <img alt="version" src="https://img.shields.io/badge/Version-0.0.3-green"/>
+    <img alt="version" src="https://img.shields.io/badge/Version-0.2.2-green"/>
     <img alt="python" src="https://img.shields.io/badge/Python- > 3.6 -blue?logo=python&logoColor=white"/>
     <br>
     <a href="https://pypi.org/project/tinypy/">
